@@ -1,3 +1,8 @@
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
+
 Name: Akarsh Srivastava
 
 Picture:
