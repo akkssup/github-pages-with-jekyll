@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Epic Title"
 ---
 
-I'm glad you are here. I plan to talk about deez
+I'm glad you are here. I plan to talk about my life
