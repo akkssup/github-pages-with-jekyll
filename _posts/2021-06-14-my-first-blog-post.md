@@ -5,7 +5,7 @@ date: 2021-06-13
 
 Name: Akarsh Srivastava
 
-Picture:
+Picture: ![image](https://github.com/akkssup/github-pages-with-jekyll/blob/main/AKARSH%20PICTURE.jpg?raw=true)
 
 Social Media:
 
