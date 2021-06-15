@@ -11,5 +11,5 @@ Social Media:
 
 insta - akarshsrivastava_
 
-Brag Sheet: Mechanical lead in robotics, build coordinator Science Olympiad, founder ebesports
-Silver 1 in valorant, I have played CSGO before
+Brag Sheet: Mechanical lead in robotics, build coordinator Science Olympiad, founder of EBesports,
+Gold 3 in valorant and I am good at CSGO.
