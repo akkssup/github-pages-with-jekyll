@@ -11,4 +11,5 @@ Social Media:
 
 insta - akarshsrivastava_
 
-Brag Sheet: i like food, i like fortnite and valorant, i walk outside sometimes
+Brag Sheet: Mechanical lead in robotics, build coordinator Science Olympiad, founder ebesports
+Silver 1 in valorant, I have played CSGO before
